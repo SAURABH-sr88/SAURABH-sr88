@@ -14,21 +14,21 @@ Software Engineer with internship experience at IBM in AI Agent workflows and fu
 
 💼 Professional Experience
 
-AI Agent Architect Trainee – IBM (07/2025 – 08/2025, New Delhi)
+* AI Agent Architect Trainee – IBM (07/2025 – 08/2025, New Delhi)
 
-Built AI agent workflows using LLMs, prompt engineering, and automation.
+  Built AI agent workflows using LLMs, prompt engineering, and automation.
 
-Developed mini-projects on AI-driven assistants and task automation.
+  Developed mini-projects on AI-driven assistants and task automation.
 
-Gained exposure to AI system design, fine-tuning, and ethical AI practices.
+  Gained exposure to AI system design, fine-tuning, and ethical AI practices.
 
-Software Engineering Intern – IBM (06/2024 – 08/2024, Gurugram)
+* Software Engineering Intern – IBM (06/2024 – 08/2024, Gurugram)
 
-Enhanced website performance by 20%, optimized cross-browser UX.
+  Enhanced website performance by 20%, optimized cross-browser UX.
 
-Fixed 15+ critical bugs, improving stability and load time.
+  Fixed 15+ critical bugs, improving stability and load time.
 
-Contributed to Agile sprints and delivered technical presentations.
+  Contributed to Agile sprints and delivered technical presentations.
 
 🎓 Education
 
