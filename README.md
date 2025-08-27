@@ -9,6 +9,7 @@ Software Engineer | DSA | Java | Spring Boot | React | AI Enthusiast
  | 💻 GitHub
 
 🚀 About Me
+
 Software Engineer with internship experience at IBM in AI Agent workflows and full-stack development. Skilled in Java, Spring Boot, React, and system design, with a passion for building scalable applications and AI-powered solutions. Strong team collaborator with proven problem-solving and communication skills.
 
 💼 Professional Experience
